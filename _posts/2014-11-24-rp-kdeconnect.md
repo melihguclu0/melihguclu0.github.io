@@ -87,7 +87,7 @@ KDE Connect'in komut satırı arayüzü, grafik arayüzüne kıyasla daha az öz
 Bu dosyadaki ilk bölümü ele alacak olursak:
 
 1. *`_12345678_90ab_cdef_0123_000000000000_`*
-: Bu karmaşık yazı, komutu tanımlayan benzersiz bir tanımlayıcı. Milyarlarca farklı komutumuz olmadığı sürece tanımlayıcıların aynı olması ve formatın sabit kalması bizim için yeterli. 
+: Bu karmaşık yazı, komutu tanımlayan benzersiz bir tanımlayıcı. Milyarlarca farklı komutumuz olmadığı sürece tanımlayıcıların aynı olmaması ve formatın sabit kalması bizim için yeterli. 
 
 2. *`/home/melih/scripts/system_temp.sh`*
 : İkinci alan komut yürütüldüğünde çalışacak program.
