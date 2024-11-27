@@ -79,6 +79,8 @@ KDE Connect'in komut satırı arayüzü, grafik arayüzüne kıyasla daha az öz
 
 - Run command ile ilişkili ayar dosyası **~/.config/kdeconnect/\<deviceid>/kdeconnect_runcommand/config** dizininde bulunuyor.
 
+- Oluşturduğum basit aracı kullanarak komutları kolayca ekleyip kullanabilirsiniz. 
+https://github.com/melihguclu0/rcgenerate
 
 ```bash
 [General]
