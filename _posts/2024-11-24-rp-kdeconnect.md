@@ -34,7 +34,7 @@ Therefore first
 1. `systemctl --user status | grep kdeconnect`
 to find its full name
 
-2. `systemctl --user disable --now <servis-adı>`
+2. `systemctl --user disable --now <service-name>`
 to disable it
 
 3. Additionally we need to configure the firewall to allow kdeconnect. [^ref1]
