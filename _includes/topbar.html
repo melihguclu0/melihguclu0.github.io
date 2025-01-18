@@ -73,18 +73,27 @@
         autocomplete="off"
         placeholder="{{ site.data.locales[include.lang].search.hint | capitalize }}..."
       >
+
     </search>
     <button type="button" class="btn btn-link text-decoration-none" id="search-cancel">
       {{- site.data.locales[include.lang].search.cancel -}}
     </button>
-    <div class="lang-div d-flex">
-      {% for lang in site.languages %}
+
+<div class="lang-div d-flex" style="display: flex; justify-content: center; align-items: center; gap: 5px; font-size: 1.2rem;">
+
+{% for lang in site.languages %}
+    {% if lang == site.active_lang %}
+<b style="font-size: 1.4rem;">{{ lang }}</b>
+    {% else %}
         {% if lang == site.default_lang %}
-          <a href=" {{ page.url }}">{{ lang }}</a> <p> &nbsp;&nbsp; </p>
+<a href=" {{ page.url }}">{{ lang }}</a>
         {% else %}
-          <a href="/{{ lang }}{{ page.url }}">{{ lang }}</a>
+<a href="/{{ lang }}{{ page.url }}">{{ lang }}</a>
         {% endif %}
-      {% endfor %}
-    </div>
+    {% endif %}
+{% endfor %}
+</div>
+
+
   </div>
 </header>
