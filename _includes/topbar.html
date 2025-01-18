@@ -5,6 +5,7 @@
     id="topbar"
     class="d-flex align-items-center justify-content-between px-lg-3 h-100"
   >
+
     <nav id="breadcrumb" aria-label="Breadcrumb">
       {% assign paths = page.url | split: '/' %}
 
@@ -20,6 +21,8 @@
                 {{- site.data.locales[include.lang].tabs.home | capitalize -}}
               </a>
             </span>
+
+
 
           {% elsif forloop.last %}
             {% if page.collection == 'tabs' %}
@@ -53,6 +56,7 @@
       {% else %}
         {{- site.data.locales[include.lang].layout[page.layout] | default: page.layout | capitalize -}}
       {% endif %}
+
     </div>
 
     <button type="button" id="search-trigger" class="btn btn-link">
@@ -73,5 +77,14 @@
     <button type="button" class="btn btn-link text-decoration-none" id="search-cancel">
       {{- site.data.locales[include.lang].search.cancel -}}
     </button>
+    <div class="lang-div d-flex">
+      {% for lang in site.languages %}
+        {% if lang == site.default_lang %}
+          <a href=" {{ page.url }}">{{ lang }}</a> <p> &nbsp;&nbsp; </p>
+        {% else %}
+          <a href="/{{ lang }}{{ page.url }}">{{ lang }}</a>
+        {% endif %}
+      {% endfor %}
+    </div>
   </div>
 </header>
