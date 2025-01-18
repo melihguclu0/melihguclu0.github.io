@@ -8,38 +8,56 @@ theme: jekyll-theme-chirpy
 # otherwise, the layout language will use the default value of 'en'.
 lang: en
 
+plugins:
+  - jekyll-polyglot
+
+title: # the main title
+  melihguclu
+tagline: # it will display as the sub-title
+ 'My researches and technical writings'
+
+description: # used by seo meta and the atom feed
+  en: My researches and technical writings
+  tr: Araştırmalarım ve teknik yazılarım
+
+
+
+
+# polyglot configuration
+
+languages: ["en", "tr"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css", "public", "sitemap"]
+parallel_localization: true
+url: "https://melihguclu0.github.io"
+
+
+
+
+
+
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone:
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
-
-tagline: A text-focused Jekyll theme # it will display as the subtitle
-
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
-
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://melihguclu0.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: melihguclu0 # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: melihguclu
+  email: melihgcl@proton.me # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://github.com/melihguclu0 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -206,15 +224,18 @@ compress_html:
     envs: [development]
 
 exclude:
-  - "*.gem"
-  - "*.gemspec"
+#  - "*.gem"
+#  - "*.gemspec"
   - docs
   - tools
   - README.md
   - LICENSE
   - purgecss.js
-  - rollup.config.js
-  - "package*.json"
+#  - rollup.config.js
+#  - "package*.json"
+
+
+
 
 jekyll-archives:
   enabled: [categories, tags]
