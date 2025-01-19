@@ -3,7 +3,7 @@ title: Raspberry Pi ile KDE Connect
 description: Monitörsüz(headless) bir Raspberry Pi cihazda KDE Connect kurulumu
 author: melihguclu
 date: 2024-11-24 
-categories: [Linux, Utilities]
+categories: [Linux, Linux Utilities]
 tags: [shell, linux, raspberrypi, kdeconnect]
 toc: true
 lang: tr
