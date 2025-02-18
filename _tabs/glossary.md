@@ -7,41 +7,99 @@ lang: en
 toc: true
 ---
 
-# A
-# B
-# C
+## A
+
+Active Low
+: Aktif Düşük
+
+Active High
+: Aktif Yüksek
+
+Adder
+: Toplayıcı
+
+## B
+
+Behavioural Level
+: Davranışsal Seviye
+
+Branch
+: Dallanma
+
+## C
 
   Clock Pulse
-  : Saat Darbesi
+  : Saat Darbesi, Saat Vuruşu
   
   
-# D
-# E
-# F
+## D
+## E
+## F
+
   Falling Edge
   : Düşen Kenar, Alçalan Kenar
-# G
-# H
-# I
-# J
-# K
-# L
-# M
-# N
-# O
-# P
-# Q
-# R
-  Register
-  : Kaydedici, Yazmaç
 
-  Rising Edge
-  : Yükselen Kenar
-# S
-# T
-# U
-# V
-# W
-# X
-# Y
-# Z
+## G
+
+Gate Level
+: Kapı Seviyesi
+
+## H
+
+Hardware Description Language - HDL
+: Donanım Tanımlama Dili
+  
+## I
+
+Instruction Memory
+: Komut Belleği
+
+## J
+## K
+## L
+
+## M
+
+Multiplexer, MUX
+: Çoklayıcı
+
+## N
+## O
+## P
+
+Program Counter
+: Program Sayacı
+
+Pull Up
+: Yukarı Çekmek
+
+Pull Down
+: Aşağı Çekmek
+
+## Q
+## R
+
+Register
+: Kaydedici, Yazmaç
+  
+Rising Edge
+: Yükselen Kenar
+
+## S
+## T
+
+
+Timing Diagram
+: Zamanlama Diagramı
+
+## U
+## V
+## W
+
+Waveform
+: Dalga Formu
+
+## X
+## Y
+## Z
+

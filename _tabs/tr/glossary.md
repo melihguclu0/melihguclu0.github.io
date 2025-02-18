@@ -15,11 +15,21 @@ Active Low
 Active High
 : Aktif Yüksek
 
+Adder
+: Toplayıcı
+
 ## B
+
+Behavioural Level
+: Davranışsal Seviye
+
+Branch
+: Dallanma
+
 ## C
 
   Clock Pulse
-  : Saat Darbesi
+  : Saat Darbesi, Saat Vuruşu
   
   
 ## D
@@ -30,7 +40,15 @@ Active High
   : Düşen Kenar, Alçalan Kenar
 
 ## G
+
+Gate Level
+: Kapı Seviyesi
+
 ## H
+
+Hardware Description Language - HDL
+: Donanım Tanımlama Dili
+  
 ## I
 
 Instruction Memory
@@ -39,7 +57,12 @@ Instruction Memory
 ## J
 ## K
 ## L
+
 ## M
+
+Multiplexer, MUX
+: Çoklayıcı
+
 ## N
 ## O
 ## P
@@ -65,12 +88,17 @@ Rising Edge
 ## S
 ## T
 
+
 Timing Diagram
 : Zamanlama Diagramı
 
 ## U
 ## V
 ## W
+
+Waveform
+: Dalga Formu
+
 ## X
 ## Y
 ## Z
