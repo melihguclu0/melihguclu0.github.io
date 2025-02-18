@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="42.8 48.742 400 400" xmlns:bx="https://boxy-svg.com" width="500px" height="500px">
+  <defs>
+    <bx:export>
+      <bx:file format="svg"/>
+    </bx:export>
+    <bx:guide x="78.493" y="258.744" angle="0"/>
+  </defs>
+  <rect x="151.368" y="165.141" width="150" height="186.994" style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 172); stroke-width: 4px; transform-box: fill-box; transform-origin: 50% 50%;"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 40px; stroke: rgb(0, 0, 0); stroke-width: 0px; white-space: pre;" x="199.333" y="272.519">PC</text>
+  <text style="font-family: Arial, sans-serif; font-size: 20px; font-style: italic; font-weight: 700; white-space: pre;" x="325.62" y="355.146" transform="matrix(1, 0, 0, 1, 26.517115, -66.59198)">addr_o<tspan x="325.6199951171875" dy="1em">​</tspan></text>
+  <rect x="303.544" y="255.777" width="98" height="3" style="stroke: rgb(0, 0, 0); stroke-width: 3px;"/>
+  <text style="font-family: Arial, sans-serif; font-size: 20px; font-style: italic; font-weight: 700; white-space: pre;" transform="matrix(1, 0, 0, 1, -247.126984, -168.111725)"><tspan x="325.62" y="355.146">rstn_i</tspan><tspan x="325.62" dy="1em">​</tspan></text>
+  <rect x="80.656" y="258.193" width="70" height="3" style="stroke: rgb(0, 0, 0); stroke-width: 3px;"/>
+  <text style="font-family: Arial, sans-serif; font-size: 20px; font-style: italic; font-weight: 700; white-space: pre;" x="325.62" y="355.146" transform="matrix(1, 0, 0, 1, -245.921982, -107.794106)">clk_i<tspan x="325.6199951171875" dy="1em">​</tspan></text>
+  <g style="" transform="matrix(1.018096, 0, 0, 1, -3.768194, -58.222507)">
+    <path style="stroke: rgb(0, 0, 0); fill: rgba(216, 216, 216, 0); transform-origin: -11.877px 316.708px; stroke-width: 3.96413px;" d="M 172.75 316.708 L 152.969 304.677 L 152.969 328.739 L 172.75 316.708 Z"/>
+  </g>
+  <path style="stroke: rgb(0, 0, 0); stroke-width: 0px; transform-box: fill-box; transform-origin: 50% 50%;" d="M 340.309 275.504 L 342.501 240.936 L 347.79 240.924 L 345.907 275.504 L 340.309 275.504 Z" transform="matrix(0.965933, 0.258793, -0.258793, 0.965933, 0, 0)"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 25px; font-style: italic; white-space: pre;" x="339.716" y="236.591">32</text>
+  <path d="M 139.698 211.072 C 134.583 211.072 130.365 207.232 129.77 202.277 L 79.698 202.277 L 79.698 200.277 L 129.729 200.277 C 130.134 195.126 134.443 191.072 139.698 191.072 C 144.953 191.072 149.262 195.126 149.667 200.277 L 149.698 200.277 L 149.698 202.277 L 149.626 202.277 C 149.031 207.232 144.813 211.072 139.698 211.072 Z" style="stroke: rgb(0, 0, 0); fill: rgba(216, 216, 216, 0); stroke-width: 3px;"/>
+</svg>

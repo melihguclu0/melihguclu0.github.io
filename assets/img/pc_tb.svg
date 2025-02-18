@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="6.614 23.69 478.867 471.445" xmlns:bx="https://boxy-svg.com" width="500px" height="500px">
+  <defs>
+    <bx:export>
+      <bx:file format="svg"/>
+    </bx:export>
+    <bx:guide x="-24.498" y="255.96" angle="0"/>
+  </defs>
+  <rect x="24.243" y="35.752" width="447.32" height="444.537" style="stroke: rgb(0, 0, 0); stroke-width: 4px; fill: rgb(172, 255, 203); transform-origin: 247.901px 258.021px;"/>
+  <rect x="355.435" y="207.15" width="78.372" height="37.332" style="stroke: rgb(0, 0, 0); stroke-width: 4px; fill: rgb(241, 255, 0);"/>
+  <rect x="59.515" y="160.975" width="57.42" height="39.175" style="stroke: rgb(0, 0, 0); stroke-width: 4px; fill: rgb(241, 255, 0);"/>
+  <rect x="66.151" y="334.008" width="108.834" height="48.499" style="stroke: rgb(0, 0, 0); stroke-width: 4px; fill: rgb(241, 255, 0);"/>
+  <rect x="174.51" y="151.975" width="118.509" height="151.736" style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 172); stroke-width: 4px; transform-box: fill-box; transform-origin: 50% 50%;"/>
+  <text style="font-family: Arial, sans-serif; font-size: 20px; font-style: italic; font-weight: 700; white-space: pre;" x="325.62" y="355.146" transform="matrix(0.790057, 0, 0, 0.811447, 119.132324, -57.939659)">addr<tspan x="325.6199951171875" dy="1em">​</tspan></text>
+  <rect x="294.738" y="225.522" width="60.697" height="1.96" style="stroke: rgb(0, 0, 0); stroke-width: 3px;"/>
+  <text style="font-family: Arial, sans-serif; font-size: 20px; font-style: italic; font-weight: 700; white-space: pre; text-anchor: middle;" transform="matrix(0.790057, 0, 0, 0.811447, -170.106674, -102.336708)"><tspan x="325.62" y="355.146">rstn</tspan><tspan x="325.6199951171875" dy="1em">​</tspan></text>
+  <rect x="118.644" y="227.482" width="55.304" height="2.434" style="stroke: rgb(0, 0, 0); stroke-width: 3px;"/>
+  <text style="font-family: Arial, sans-serif; font-size: 20px; font-style: italic; font-weight: 700; white-space: pre; text-anchor: middle;" x="325.62" y="355.146" transform="matrix(0.790057, 0, 0, 0.811447, -141.363297, 113.075577)">clock<tspan x="325.6199951171875" dy="1em">​</tspan>generator<tspan x="325.6199951171875" dy="1em">​</tspan></text>
+  <g style="" transform="matrix(0.804354, 0, 0, 0.811447, 51.943771, -29.272549)">
+    <path style="stroke: rgb(0, 0, 0); fill: rgba(216, 216, 216, 0); transform-origin: -11.877px 316.708px; stroke-width: 3.96413px;" d="M 172.75 316.708 L 152.969 304.677 L 152.969 328.739 L 172.75 316.708 Z"/>
+  </g>
+  <path style="stroke: rgb(0, 0, 0); stroke-width: 0px; transform-origin: 382.491px 209.79px;" d="M 320.35 240.266 L 329.091 213.631 L 333.129 214.733 L 324.622 241.441 L 320.35 240.266 Z"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 25px; font-style: italic; white-space: pre;" x="339.716" y="236.591" transform="matrix(0.790057, 0, 0, 0.811447, 54.92086, 17.971924)">32</text>
+  <path d="M 165.29 189.246 C 161.249 189.246 157.917 186.13 157.447 182.109 L 117.887 182.109 L 117.887 180.486 L 157.414 180.486 C 157.734 176.307 161.139 173.017 165.29 173.017 C 169.442 173.017 172.847 176.307 173.167 180.486 L 173.191 180.486 L 173.191 182.109 L 173.134 182.109 C 172.664 186.13 169.332 189.246 165.29 189.246 Z" style="stroke: rgb(0, 0, 0); fill: rgba(216, 216, 216, 0); stroke-width: 3px;"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 24.6473px; font-weight: 700; stroke: rgb(0, 0, 0); stroke-width: 0px; white-space: pre;" transform="matrix(0.790057, 0, 0, 0.811447, -119.402893, -154.98793)" x="199.333" y="272.519">testbench</text>
+  <rect x="177.811" y="352.111" width="106.486" height="3.221" style="stroke: rgb(0, 0, 0); stroke-width: 3px; transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(0, 1, -1, 0, -110.799694, -72.956676)"/>
+  <text style="font-family: Arial, sans-serif; font-size: 20px; font-style: italic; font-weight: 700; white-space: pre; text-anchor: middle;" transform="matrix(0.790057, 0, 0, 0.811447, -56.675972, -43.515423)"><tspan x="325.62" y="355.146">clk_i</tspan><tspan x="325.6199951171875" dy="1em">​</tspan></text>
+  <text style="font-family: Arial, sans-serif; font-size: 20px; font-style: italic; font-weight: 700; white-space: pre; text-anchor: middle;" transform="matrix(0.790057, 0, 0, 0.811447, -52.735931, -102.340271)"><tspan x="325.62" y="355.146">rstn_i</tspan><tspan x="325.6199951171875" dy="1em">​</tspan></text>
+  <text style="font-family: Arial, sans-serif; font-size: 20px; font-style: italic; font-weight: 700; white-space: pre;" x="325.62" y="355.146" transform="matrix(0.790057, 0, 0, 0.811447, -21.77792, -55.129932)">addr_o<tspan x="325.6199951171875" dy="1em">​</tspan></text>
+  <text style="font-family: Arial, sans-serif; font-size: 20px; font-style: italic; font-weight: 700; white-space: pre;" x="325.62" y="355.146" transform="matrix(1.363425, 0, 0, 1.462116, -232.677338, -225.924011)">pc1<tspan x="325.6199951171875" dy="1em">​</tspan></text>
+  <text style="font-family: Arial, sans-serif; font-size: 20px; font-style: italic; font-weight: 700; white-space: pre;" x="325.62" y="355.146" transform="matrix(1.363425, 0, 0, 1.462116, -29.226439, -49.345917)">test<tspan x="325.6199951171875" dy="1em">​</tspan></text>
+  <text style="font-family: Arial, sans-serif; font-size: 20px; font-style: italic; font-weight: 700; white-space: pre; text-anchor: middle;" transform="matrix(0.790057, 0, 0, 0.811447, -138.302597, 76.567902)"><tspan x="325.62" y="355.146">clk</tspan><tspan x="325.6199951171875" dy="1em">​</tspan></text>
+</svg>

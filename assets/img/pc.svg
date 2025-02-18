@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600px" height="300px" xmlns:bx="https://boxy-svg.com" viewBox="-46.9 -79.7 600 300">
+  <defs>
+    <bx:guide x="266.669" y="272.293" angle="90"/>
+    <bx:export>
+      <bx:file format="svg"/>
+    </bx:export>
+  </defs>
+  <style>svg {
+  stroke:#000;
+  fill:none;
+}
+text {
+  fill:#000;
+  stroke:none;
+  font-size:10px;
+  font-weight: bold;
+  font-family: "Courier New", monospace;
+}
+line {
+    stroke-linecap: round;
+}
+.nodelabel {
+  text-anchor: middle;
+}
+.inputPortLabel {
+  text-anchor: end;
+}
+.splitjoinBody {
+  fill:#000;
+}</style>
+  <g transform="translate(120.66666666666667,77)" id="cell_$add$pc.v:18$3">
+    <circle r="12.5" cx="12.5" cy="12.5" class="cell_$add$pc.v:18$3" style="fill: rgba(186, 218, 85, 0);"/>
+    <line x1="7.5" x2="17.5" y1="12.5" y2="12.5" class="cell_$add$pc.v:18$3" style="fill: rgba(186, 218, 85, 0);"/>
+    <line x1="12.5" x2="12.5" y1="7.5" y2="17.5" class="cell_$add$pc.v:18$3" style="fill: rgba(186, 218, 85, 0);"/>
+    <g/>
+    <g/>
+    <g/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 380.5, 32)" id="cell_$procdff$7">
+    <rect width="30" height="40" x="0" y="0" class="cell_$procdff$7" style="fill: rgba(197, 52, 52, 0);"/>
+    <path d="M0,35 L5,30 L0,25" class="cell_$procdff$7" style="fill: rgba(197, 52, 52, 0);"/>
+    <path d="M30,2 L32,2 L32,42 L2,42 L2,40" class="cell_$procdff$7" style="fill: rgba(197, 52, 52, 0);"/>
+    <path d="M32,4 L34,4 L34,44 L4,44 L4,42" class="cell_$procdff$7" style="fill: rgba(197, 52, 52, 0);"/>
+    <g/>
+    <g/>
+    <g/>
+    <g/>
+    <g/>
+    <g/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 255, 22)" id="cell_$procmux$5">
+    <path d="M0,0 L20,10 L20,30 L0,40 Z" class="cell_$procmux$5" style="fill-rule: nonzero; fill: rgba(0, 0, 0, 0);"/>
+    <path d="M4,2 L4,0 L22,9 L22,31 L4,40 L4,38" class="cell_$procmux$5" style="fill-rule: nonzero; fill: rgba(0, 0, 0, 0);"/>
+    <path d="M8,2 L8,0 L24,8 L24,32 L8,40 L8,38" class="cell_$procmux$5" style="fill-rule: nonzero; fill: rgba(0, 0, 0, 0);"/>
+    <text class="nodelabel cell_$procmux$5" style="white-space: pre;" x="5" y="13">0</text>
+    <g/>
+    <g/>
+    <g/>
+    <g/>
+    <text class="nodelabel cell_$procmux$5" style="white-space: pre; font-size: 10px;" x="4.999" y="32.204">1</text>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 14.993, 161.329376)" id="cell_clk_i">
+    <text class="nodelabel cell_clk_i" style="white-space: pre;" x="15" y="-4">clk_i</text>
+    <path d="M0,0 L0,20 L15,20 L30,10 L15,0 Z" class="cell_clk_i" style="fill: rgb(0, 0, 0);"/>
+    <g/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, -168.007248, -60.917656)">
+    <g transform="matrix(1, 0, 0, 1, 183, 187.5)" id="cell_rstn_i">
+      <text class="nodelabel cell_rstn_i" style="white-space: pre;" x="15" y="-4">rstn_i</text>
+      <path d="M0,0 L0,20 L15,20 L30,10 L15,0 Z" class="cell_rstn_i" style="fill: rgb(0, 0, 0);"/>
+      <g/>
+    </g>
+  </g>
+  <g transform="translate(489.5,32)" id="cell_addr_o">
+    <text class="nodelabel cell_addr_o" style="white-space: pre;" x="15" y="-4">addr_o</text>
+    <path d="M30,0 L30,20 L15,20 L0,10 L15,0 Z" class="cell_addr_o" style="fill: rgb(0, 0, 0);"/>
+    <g/>
+  </g>
+  <g transform="matrix(0.666667, 0, 0, 0.62399, 15, 90.759903)" id="cell_100" style="">
+    <text class="nodelabel cell_100" style="white-space: pre;" x="15" y="-4">0x4</text>
+    <rect width="30" height="20" class="cell_100" style="fill: rgb(0, 0, 0);"/>
+    <g/>
+  </g>
+  <g transform="matrix(0.666667, 0, 0, 0.616068, 15, 25.798923)" id="cell_00000000000000000000000000000000" style="">
+    <text class="nodelabel cell_00000000000000000000000000000000" style="white-space: pre;" x="15" y="-4">0x0</text>
+    <rect width="30" height="20" class="cell_00000000000000000000000000000000" style="fill: rgb(0, 0, 0);"/>
+    <g/>
+  </g>
+  <line x1="415.5" x2="425.5" y1="42" y2="42" class="net_4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35 width_32" style="stroke-width: 2"/>
+  <line x1="425.5" x2="425.5" y1="42" y2="-15.268" class="net_4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35 width_32" style="stroke-width: 2;"/>
+  <line x1="425.5" x2="-13.677" y1="-15.268" y2="-15.268" class="net_4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35 width_32" style="stroke-width: 2;"/>
+  <line x1="-13.677" x2="-13.677" y1="-15.268" y2="82" class="net_4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35 width_32" style="stroke-width: 2;"/>
+  <circle cx="425.5" cy="42" r="3" style="fill:#000" class="net_4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35 width_32"/>
+  <line x1="-13.677" x2="122.667" y1="82" y2="82" class="net_4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35 width_32" style="stroke-width: 2;"/>
+  <line x1="415.5" x2="489.5" y1="42" y2="42" class="net_4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35 width_32" style="stroke-width: 2"/>
+  <line x1="32.228" x2="122.667" y1="97" y2="97" class="net_100,101,102 width_3" style="stroke-width: 2; fill: rgb(0, 0, 0);"/>
+  <line x1="44.993" x2="354.5" y1="171.318" y2="171.318" class="net_2 width_1" style="stroke-width: 1;"/>
+  <line x1="354.5" x2="354.5" y1="171.318" y2="62" class="net_2 width_1" style="stroke-width: 1;"/>
+  <line x1="354.5" x2="379.5" y1="62" y2="62" class="net_2 width_1" style="stroke-width: 1"/>
+  <line x1="279.5" x2="379.5" y1="42" y2="42" class="net_68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99 width_32" style="stroke-width: 2"/>
+  <line x1="35" x2="254" y1="32" y2="32" class="net_103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134 width_32" style="stroke-width: 2;"/>
+  <line x1="146.66666666666669" x2="229" y1="89.5" y2="89.5" class="net_36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67 width_32" style="stroke-width: 2"/>
+  <line x1="229" x2="229" y1="89.5" y2="52" class="net_36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67 width_32" style="stroke-width: 2"/>
+  <line x1="229" x2="254" y1="52" y2="52" class="net_36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67 width_32" style="stroke-width: 2"/>
+  <line x1="44.993" x2="267" y1="136.582" y2="136.582" class="net_3 width_1" style="stroke-width: 1;"/>
+  <line x1="267" x2="267" y1="136.582" y2="60" class="net_3 width_1" style="stroke-width: 1;"/>
+  <rect x="451.5" y="37" width="22" height="9" class="net_4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35 width_32 busLabel_32" style="fill: white; stroke: none"/>
+  <text x="450.5" y="45" class="net_4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35 width_32 busLabel_32" style="white-space: pre;">/32/</text>
+  <rect x="451.5" y="37" width="22" height="9" class="net_4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35 width_32 busLabel_32" style="fill: white; stroke: none"/>
+  <text x="450.5" y="45" class="net_4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35 width_32 busLabel_32" style="white-space: pre;">/32/</text>
+  <rect x="79" y="92" width="16" height="9" class="net_100,101,102 width_3 busLabel_3" style="fill: white; stroke: none"/>
+  <text x="78" y="100" class="net_100,101,102 width_3 busLabel_3" style="white-space: pre;">/3/</text>
+  <rect x="328.5" y="37" width="22" height="9" class="net_68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99 width_32 busLabel_32" style="fill: white; stroke: none"/>
+  <text x="327.5" y="45" class="net_68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99 width_32 busLabel_32" style="white-space: pre;">/32/</text>
+  <rect x="200" y="27" width="22" height="9" class="net_103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134 width_32 busLabel_32" style="fill: white; stroke: none"/>
+  <text x="199" y="35" class="net_103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134 width_32 busLabel_32" style="white-space: pre;">/32/</text>
+  <rect x="200" y="84.5" width="22" height="9" class="net_36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67 width_32 busLabel_32" style="fill: white; stroke: none"/>
+  <text x="199" y="92.5" class="net_36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67 width_32 busLabel_32" style="white-space: pre;">/32/</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; white-space: pre; font-size: 10px;" x="272.868" y="65.843">mux</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; white-space: pre; font-size: 10px;" x="388.737" y="86.843">register</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; white-space: pre; font-size: 10px;" x="146.667" y="104.661">adder</text>
+</svg>
