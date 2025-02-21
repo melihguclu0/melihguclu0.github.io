@@ -7,6 +7,7 @@ categories: [Linux, Shell]
 tags: [shell, programming, linux]
 toc: true
 lang: tr
+published: false
 ---
 
   
