@@ -135,12 +135,11 @@ kdeconnect-cli -d <device-id> --ping-msg "System Temperature is: $(vcgencmd meas
 ```
 ## Uyarılar
 
-> Çoğu kurulumda **NOPASSWD** seçeneği varsayılan olarak aktif olduğundan `sudo`
-> benzeri yetki yükseltme programları parola istemeyecektir. Bu durumun zaafiyet
-> oluşturmaması için parolanın aktif edilmesi önerilir. 
-> [^ref2](https://www.raspberrypi.com/documentation/computers/configuration.html#secure-your-raspberry-pi)
-> {: .prompt-danger }
+> Çoğu kurulumda **NOPASSWD** seçeneği varsayılan olarak aktif olduğundan `sudo` benzeri yetki yükseltme programları parola istemeyecektir. Bu durumun zaafiyet oluşturmaması için parolanın aktif edilmesi önerilir.
+{: .prompt-danger }
+
 
 ## Referanslar
+
 [^ref1]: <https://userbase.kde.org/KDEConnect#Troubleshooting>
 [^ref2]: <https://www.raspberrypi.com/documentation/computers/configuration.html#secure-your-raspberry-pi>
